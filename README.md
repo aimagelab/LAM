@@ -9,6 +9,7 @@ To request the [LAM.rar](https://github.com/aimagelab/LAM/releases/download/data
 
 [Form to request the password](https://forms.gle/NocC3YFNQjRM1sa67 "Form to request the password")
 
+## Cite
 Please cite with the following BibTeX:
 ```
 @inproceedings{cascianelli2022lam,
