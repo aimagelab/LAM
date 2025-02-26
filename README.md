@@ -1,13 +1,10 @@
-The **Ludovico Antonio Muratori (LAM) dataset** is the largest **line-level HTR** dataset to date and contains 25,823 lines from Italian ancient manuscripts edited by a single author **over 60 years**. The dataset comes in two configurations: a **basic splitting** and a **date-based splitting** which takes into account the age of the author. The first setting is intended to study HTR on ancient documents in Italian, while the second focuses on the ability of HTR systems to recognize text written by the same writer in time periods for which training data are not available.
+# Ludovico Antonio Muratori (LAM) dataset
 
-<p><img src="https://aimagelab.ing.unimore.it/imagelab/uploadedImages/000910.png" alt="foo"></p>
+The **Ludovico Antonio Muratori (LAM) dataset** is the largest **line-level HTR** dataset to date and contains 25,823 lines from Italian ancient manuscripts edited by a single author **over 60 years**. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/vpippi/lam-dataset) and comes in two configurations: a **basic splitting** and a **date-based splitting** which takes into account the age of the author. The first setting is intended to study HTR on ancient documents in Italian, while the second focuses on the ability of HTR systems to recognize text written by the same writer in time periods for which training data are not available.
 
-More info on the dataset can be found on the website: [https://aimagelab.ing.unimore.it/go/lam](https://aimagelab.ing.unimore.it/go/lam "https://aimagelab.ing.unimore.it/go/lam")
+<p><img src="https://aimagelab.ing.unimore.it/imagelab/uploadedImages/000910.png" alt="LAM dataset"></p>
 
-## Archive password
-To request the [LAM.rar](https://github.com/aimagelab/LAM/releases/download/dataset/LAM.rar "LAM.rar") archive password you have to fill out [this form](https://forms.gle/NocC3YFNQjRM1sa67 "this form") and in 1-2 working days you will receive an email.
-
-[Form to request the password](https://forms.gle/NocC3YFNQjRM1sa67 "Form to request the password")
+More info on the dataset can be found on the website: [https://aimagelab.ing.unimore.it/go/lam](https://aimagelab.ing.unimore.it/go/lam "LAM dataset")
 
 Please cite with the following BibTeX:
 ```
